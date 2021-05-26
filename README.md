@@ -32,6 +32,6 @@
 
 - Run ```docker pull dl3c01n/shortener:latest```
 
-- Run ```docker run -p 5050:5050 -d {your-docker-username}/shortener```
+- Run ```docker run -p 5050:5050 -d dl3c01n/shortener```
 
 - Navigate to [localhost:5050](http://localhost:5050)
